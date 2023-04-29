@@ -1,0 +1,32 @@
+{
+  "details": [
+    {
+      "id": 1,
+      "username": "Caleb",
+      "password": "123"
+    },
+    {
+      "username": "horizon",
+      "password": "blue",
+      "id": 2
+    }
+  ],
+  "client": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "First_name": "Caleb",
+      "Last_name": "Keli",
+      "Email_address": "kelicaleb7@gmail.com",
+      "Date": "2023-03-18",
+      "Option": "luxuary",
+      "id": 2
+    }
+  ],
+  "admin": {
+    "name": "typicode"
+  }
+}
